@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/worksfine-banner.png" alt="WorksFine — Small tools for annoying workflows" width="100%" />
+</p>
 
-<!--
-**Architeg/Architeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">WorksFine</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Small tools for annoying workflows.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Focused Mac apps, CLI tools, and lightweight utilities that keep everyday work moving.
+</p>
+
+<p align="center">
+  <a href="https://worksfine.dev">Website</a> •
+  <a href="https://github.com/Architeg/gloss">Gloss</a>
+</p>
+
+---
+
+## Projects
+
+### 📝 Gloss
+
+A local-first command glossary for your terminal.
+
+Gloss helps save reusable shell commands with descriptions and tags, browse/search them in a TUI, scan zsh/bash configs, and safely sync managed aliases with backups.
+
+- GitHub: https://github.com/Architeg/gloss
+- Website: https://worksfine.dev/gloss/
+
+---
+
+<p align="center">
+  <sub>WorksFine — small tools for annoying workflows.</sub>
+</p>
