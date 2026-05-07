@@ -15,6 +15,7 @@
 <p align="center">
   <a href="https://worksfine.dev">Website</a> •
   <a href="https://github.com/Architeg/gloss">Gloss</a> •
+  <a href="https://worksfine.dev/blog">Blog</a> •
   <a href="https://github.com/sponsors/Architeg">Sponsor</a>
 </p>
 
