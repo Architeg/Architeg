@@ -27,7 +27,7 @@
 
 A local-first command glossary for your terminal.
 
-Gloss helps save reusable shell commands with descriptions and tags, browse/search them in a TUI, scan zsh/bash configs, and safely sync managed aliases with backups.
+Gloss keeps useful shell commands organized and easy to find. Save them with descriptions and tags, search them in a fast TUI, import from zsh and Bash configs, and safely sync managed aliases with automatic backups.
 
 - GitHub: https://github.com/Architeg/gloss
 - Website: https://worksfine.dev/gloss/
