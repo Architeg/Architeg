@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/worksfine-banner.png" alt="WorksFine — Small tools for annoying workflows" width="100%" />
+  <img src="./assets/worksfine-banner.png" alt="WorksFine — Small tools for annoying workflows" width="80%" />
 </p>
 
 <h1 align="center">WorksFine</h1>
@@ -14,7 +14,6 @@
 
 <p align="center">
   <a href="https://worksfine.dev">Website</a> •
-  <a href="https://github.com/Architeg/gloss">Gloss</a> •
   <a href="https://worksfine.dev/blog">Blog</a> •
   <a href="https://github.com/sponsors/Architeg">Sponsor</a>
 </p>
@@ -31,6 +30,13 @@ Gloss keeps useful shell commands organized and easy to find. Save them with des
 
 - GitHub: https://github.com/Architeg/gloss
 - Website: https://worksfine.dev/gloss/
+
+### ⭐ Miyoo Better Favorites
+
+An alternative Favorites app for Miyoo Mini and Mini Plus running Onion OS.
+
+- GitHub: https://github.com/Architeg/miyoo-better-favorites/
+- Website: [https://console-classics.com/](https://console-classics.com/miyoo-better-favorites)
 
 ## Tech stack
 
